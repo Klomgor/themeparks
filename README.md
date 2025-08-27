@@ -1,10 +1,8 @@
 # Notice
 
-This library will be soon replaced with a new codebase (6.x) that interfaces with [ThemeParks.wiki](https://www.themeparks.wiki/) to get park data. The current implementation (5.x) will no longer be actively maintained.
+This library has been replaced with a new codebase that interfaces with [ThemeParks.wiki](https://www.themeparks.wiki/) to get park data. The current implementation (5.x) in this repo is no longer be maintained.
 
-[API Documentation](https://api.themeparks.wiki/docs/v1/) is available for the new API, and some auto-generated client libraries are available:
-* [JavaScript](https://github.com/ThemeParks/ThemeParks_JavaScript)
-* [Python](https://github.com/ThemeParks/ThemeParks_Python)
+[API Documentation](https://api.themeparks.wiki/docs/v1/) is available for the new API.
 
 If you are interested in how data is sourced for the new API, you can browse the [ParksAPI](https://github.com/ThemeParks/parksapi) repo, which contains the source code for fetching park data. However, to avoid further takedown requests, this repo will not contain details like API keys that are required to access most services.
 
